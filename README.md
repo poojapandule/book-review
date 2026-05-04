@@ -1,4 +1,4 @@
-# Project Setup and Start Guide
+# Book Review Project Setup
 
 This project uses Laravel as the framework and SQLite as the database. To set up and start the project, follow these steps:
 
